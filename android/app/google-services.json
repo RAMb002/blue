@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143011560941",
+    "project_id": "rackathon-ded04",
+    "storage_bucket": "rackathon-ded04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143011560941:android:c2574a352f6fef20587be4",
+        "android_client_info": {
+          "package_name": "com.example.rackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143011560941-3mmg1fgd0dgru7nraefvpt7hvfv2nomq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXyT1Yz046pG3dNCh9pgQoNYf183ctwo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143011560941-3mmg1fgd0dgru7nraefvpt7hvfv2nomq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
