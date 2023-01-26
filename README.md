@@ -1,4 +1,4 @@
-# rackathon
+# BlueCheck
 
 A new Flutter project.
 
